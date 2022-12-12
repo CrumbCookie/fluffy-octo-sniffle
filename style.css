@@ -1,17 +1,21 @@
 .container {
+    
     display: flex; 
     color: #fff;
+    
+    
 }
 
 .textbox {
-    
-    margin: 100px;
     flex:1; 
+    gap: 10px; 
+
     
 }
 
  .cat {
     position: relative;
+    flex: 1;
     height: 170px;
     width: 192.1px;
     
